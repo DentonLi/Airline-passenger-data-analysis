@@ -9,7 +9,7 @@ Two csv files were contained, one for the training set, and the other for the te
 Workflow:
 1. Data Auditting
 2. Visualization
-3. Data Cleaning
-4. Descriptive model building
+3. Data Cleaning, PCA, and descriptive Logistic regression model building
+4. Tree-based classification machine learning model building
 
-Two notebooks were committed to finish the workflow. The first notebook "Data Visualization on Airline Passenger Satisfaction Level Survey Data" is committed to complete the first two steps of the workflow.
+Two notebooks were committed to finish the workflow. The first notebook "Data Visualization on Airline Passenger Satisfaction Level Survey Data" is committed to complete the first two steps of the workflow. The second notebook "Descriptive and Predictive Algorithm Building" is committed to complete the second half of the workflow.
