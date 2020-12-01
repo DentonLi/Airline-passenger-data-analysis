@@ -11,3 +11,5 @@ Workflow:
 2. Visualization
 3. Data Cleaning
 4. Descriptive model building
+
+Two notebooks were committed to finish the workflow. The first notebook "Data Visualization on Airline Passenger Satisfaction Level Survey Data" is committed to complete the first two steps of the workflow.
